@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26f66912-d7c7-4603-ad6b-37d41d2f3fa8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1110.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/12649.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/16796.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/20902.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/22171.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/27706.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/28146.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/30363.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/30369.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3331.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3557.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4498.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/6460.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/6825.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/change_name.sh" afterPath="$PROJECT_DIR$/images/change_name.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sync.sh" afterPath="$PROJECT_DIR$/sync.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myGallary.iws" />
@@ -27,11 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="change_name.sh" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/images/change_name.sh">
+      <file leaf-file-name="note.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/note.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5482234">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.18518518">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,6 +59,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Html5" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -57,9 +74,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/images/change_name.sh" />
+        <option value="$PROJECT_DIR$/images/change_in_order.sh" />
+        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/sync.sh" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/images/change_name.sh" />
+        <option value="$PROJECT_DIR$/note.txt" />
       </list>
     </option>
   </component>
@@ -71,10 +91,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="63" />
-    <option name="y" value="266" />
-    <option name="width" value="1017" />
-    <option name="height" value="533" />
+    <option name="x" value="21" />
+    <option name="y" value="23" />
+    <option name="width" value="1248" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -148,6 +168,12 @@
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/myGallary/index.html">
@@ -402,15 +428,15 @@
       <created>1452928815062</created>
       <option name="number" value="Default" />
       <updated>1452928815062</updated>
-      <workItem from="1452928818393" duration="5783000" />
+      <workItem from="1452928818393" duration="13165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5783000" />
+    <option name="totallyTimeSpent" value="13165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="266" width="1017" height="533" extended-state="0" />
+    <frame x="21" y="23" width="1248" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -421,9 +447,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5228916" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17597292" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31692308" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2562189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -446,33 +472,78 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/change_name.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/change_in_order.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59504133">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myGallary.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7037037">
+          <caret line="87" column="66" selection-start-line="87" selection-start-column="66" selection-end-line="87" selection-end-column="66" />
+          <folding>
+            <marker date="1452941275000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452941275000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452941275000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452941275000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452941275000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452941275000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452941275000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452941275000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452941275000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sync.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08219178">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.074074075">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.8627451">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
           <folding>
-            <marker date="1452929786000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1452929786000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1452929786000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1452929786000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1452929786000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1452929786000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452942715000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452942715000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452942715000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452942715000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452942715000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452942715000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452942715000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452942715000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452942715000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/change_name.sh">
+    <entry file="file://$PROJECT_DIR$/note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5482234">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.18518518">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
